@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/calculatorlayout.xml" value="0.25" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed10layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed11layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed12layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed13layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed14layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed15layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed16layout.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed17layout.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed18layout.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed19layout.xml" value="0.4282238442822384" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed1layout.xml" value="0.1940928270042194" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed20layout.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed21layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed22layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed23layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed24layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed25layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed26layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed27layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed28layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed29layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed2layout.xml" value="0.365625" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed30layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed3layout.xml" value="0.365625" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed4layout.xml" value="0.365625" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed5layout.xml" value="0.25" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed6layout.xml" value="0.27421875" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed7layout.xml" value="0.365625" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed8layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/speed9layout.xml" value="0.365625" />
+        <entry key="..\:/Users/Windows/AndroidStudioProjects/SpeedCompareCalculator/app/src/main/res/layout/splashlayout.xml" value="0.29438405797101447" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
